@@ -7,8 +7,10 @@ title: GIP Websites 2021-2022
 |---|---|---|
 | 1 | [Matthias](https://lissun.github.io/Gipwebsite/) | [repo](https://github.com/Lissun/Gipwebsite) |
 | 2 | [Ewoud](https://ewoudf-immalle.github.io/Gipwebsite/) | [repo](https://github.com/EwoudF-immalle/Gipwebsite) |
+| 3 | [Sebastiaan](sebastiaan-immalle.github.io/gipwebsite/) | [repo](https://github.com/sebastiaan-immalle/Gipwebsite)|
 | 4 | [Wesley](https://wesleyvl-immalle.github.io/Gipwebsite/) | [repo](https://github.com/wesleyvl-immalle/Gipwebsite/) |
 | 11 | [Michiel](https://michielvdb-immalle.github.io/GIPwebsite/) | [repo](https://github.com/MichielVDB-immalle/GIPwebsite) |
+
 
 
 # planning donderdag 23 juni 2022
